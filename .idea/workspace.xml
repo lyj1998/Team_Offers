@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55fad674-ceb2-4551-bd31-e3ae87ec1071" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/MySQL/mysql索引.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="55fad674-ceb2-4551-bd31-e3ae87ec1071" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -277,12 +274,12 @@
       <option name="presentableId" value="Default" />
       <updated>1638016403143</updated>
       <workItem from="1638016407002" duration="1350000" />
-      <workItem from="1638020159780" duration="2012000" />
+      <workItem from="1638020159780" duration="2055000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3362000" />
+    <option name="totallyTimeSpent" value="3405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
